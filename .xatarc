@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Reander-Agulto-s-workspace-ps56jb.us-east-1.xata.sh/db/test-auth-db",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

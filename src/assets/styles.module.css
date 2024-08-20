@@ -1,0 +1,11 @@
+.nav {
+    @apply flex items-center justify-between p-6 lg:px-8 h-20 border border-t-0 border-l-0 border-r-0 border-b-gray-600;
+}
+
+.navLogo {
+    @apply flex lg:flex-1;
+}
+
+.navLink {
+    @apply p-1.5;
+}
